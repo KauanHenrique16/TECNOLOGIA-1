@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "ele então queria saber o nome do cachorro mais ele ainda não tinha, sua tia então perguntou se ele queria escolher o nome dele e ele falou que não sabia oque escolher pois ja tinha varios animais",
         alternativas: [
             {
-                texto: ".",
+                texto: " .",
                 afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
             },
             {
