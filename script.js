@@ -22,12 +22,12 @@ const perguntas = [
         enunciado: "ele então queria saber o nome do cachorro mais ele ainda não tinha, sua tia então perguntou se ele queria escolher o nome dele e ele falou que não sabia oque escolher pois ja tinha varios animais",
         alternativas: [
             {
-                texto: " .",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: " decidir o nome",
+                afirmacao: "tigor o nome do seu falescido cachorro."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "outro nome.",
+                afirmacao: "caco o nome que sua tia decidiu."
             }
         ]
     },
