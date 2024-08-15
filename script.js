@@ -18,7 +18,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "ele então queria saber o nome do cachorro mais ele ainda não tinha, sua tia então perguntou se ele queria escolher o nome dele e ele falou que não sabia oque escolher pois ja tinha varios animais",
+        enunciado: "ele então queria saber o nome do cachorro mas poren ele ainda não tinha, sua tia então perguntou se ele queria escolher o nome dele e ele falou que não sabia oque escolher pois ja tinha varios animais",
         alternativas: [
             {
                 texto: " decidir o nome",
