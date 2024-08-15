@@ -6,8 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que chega em casa você se depara com um novo animal de estimação, esse cachorro era um presente de sua tia, ele também era timido que nem o garoto",
-        alternativas: [
+        enunciado: "marcos quando chega na sua casa  se depara com rose sua tia e um novo animal de estimação, esse cachorro era um presente de sua tia rose."
             {
                 texto: "Isso é assustador!",
                 afirmacao: "No início ficou com medo do cachorro morder. "
