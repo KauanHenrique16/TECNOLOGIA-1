@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "marcos quando chega na sua casa  se depara com rose sua tia e um novo animal de estimação, esse cachorro era um presente de sua tia rose."
+        enunciado: "marcos quando chega na sua casa  se depara com rose sua tia e um novo animal de estimação, esse cachorro era um presente de sua tia rose",
             {
                 texto: "Isso é assustador!",
                 afirmacao: "No início ficou com medo do cachorro morder. "
